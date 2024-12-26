@@ -1,10 +1,10 @@
-# Brick Robotics Control Scripts
+# Brick Robotics Control Scripts 🤖
 
 This repository contains a collection of MATLAB scripts designed for controlling a LEGO EV3 robot using the Brick framework over Wi-Fi. The scripts implement various functionalities, such as motor control, sensor integration, obstacle detection, and automated navigation.
 
 ---
 
-## Project Hierarchy
+## Project Hierarchy 📂
 
 ```
 Brick Robotics Control Scripts/
@@ -29,7 +29,7 @@ Brick Robotics Control Scripts/
 
 ---
 
-## Features
+## Features ✨
 
 - **Motor Control**: Fine-tuned motor angle adjustments, directional movement, and complete rotations.
 - **Navigation**: Zone detection, pedestrian interactions, and real-time adjustments using sensors.
@@ -38,7 +38,7 @@ Brick Robotics Control Scripts/
 
 ---
 
-## Installation
+## Installation 🛠️
 
 1. Clone the repository:
    ```bash
@@ -54,7 +54,7 @@ Brick Robotics Control Scripts/
 
 ---
 
-## Usage
+## Usage 🚀
 
 1. Navigate to the relevant script folder:
    ```bash
